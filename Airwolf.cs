@@ -23,14 +23,6 @@ namespace Oxide.Plugins
             AddCovalenceCommand("setspawnlocation", "CmdSetSpawnLocation");
         }
 
-        void OnPlayerConnected(BasePlayer player)
-        {
-        }
-
-        void OnPlayerDisconnected(BasePlayer player, string reason)
-        {
-        }
-
         [Command("airwolf")]
         void CmdSpawnAirwolfVendor(IPlayer player, string command, string[] args)
         {
