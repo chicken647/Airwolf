@@ -23,7 +23,7 @@ Provides the ability to spawn an airwolf vendor for players to buy minicopters/s
 
 ## Support or Issues
 
-If you encounter any issues or have any questions, please send me a DM on Discord at `Chicken#1366` or [Issues](https://github.com/chicken647/Airwolf/issues). 
+If you encounter any issues or have any questions, please send me a DM on Discord at `_uncanny_` or [Issues](https://github.com/chicken647/Airwolf/issues). 
 
 ## License
 
