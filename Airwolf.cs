@@ -7,7 +7,7 @@ using Oxide.Core.Libraries.Covalence;
 
 namespace Oxide.Plugins
 {
-    [Info("Airwolf", "Chicken#1366", "1.0.1")]
+    [Info("Airwolf Vendor Spawner", "Chicken#1366", "1.0.2")]
     [Description("Moveable airwolf vendor plugin")]
     class Airwolf : RustPlugin
     {
